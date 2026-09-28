@@ -17,7 +17,6 @@ I enjoy building at the intersection of **software engineering, AI/ML, cloud com
 * 📍 Helsinki, Finland
 
 ---
----
 
 ## 🛠️ Tech Stack
 
@@ -43,41 +42,23 @@ I enjoy building at the intersection of **software engineering, AI/ML, cloud com
 
 ## 🚀 Featured Projects
 
-### 💰 Intelligent Financial Management Platform
+### [Intelligent Financial Management Platform](https://github.com/nivedharengaraj/Finance-Tracking-web-app)
 
-A full-stack financial management application designed to provide centralized expense tracking, spending analysis, automated insights, and financial reporting.
+A web application for managing personal finances, analyzing spending, and generating financial reports.
 
 - Developed a platform for recording and tracking personal expenses
 - Added spending analysis to identify patterns across financial activity
 - Integrated Gemini AI to generate insights from financial data and implemented automated financial reports sent through email
 
-🔗 **[View Repository →](https://github.com/nivedharengaraj/Finance-Tracking-web-app)**
-
 ---
 
-### 🩺 Cirrhosis Patient Survival Prediction
+### [Cirrhosis Patient Survival Prediction](https://github.com/nivedharengaraj/Evaluation-of-Machine-Learning-Approaches-for-Cirrhosis-Survival-Prediction)
 
-A machine learning project focused on predicting patient survival outcomes for liver cirrhosis and evaluating different machine learning approaches.
+A machine learning project focused on predicting patient survival outcomes for liver cirrhosis and evaluating different classification approaches.
 
 - Evaluated multiple classification models for patient survival prediction
-- Combined **Extra Trees, Random Forest, and XGBoost** using weighted averaging
-- Used hyperparameter tuning to improve model performance
-- Achieved an **AUC of 0.94** and published the study in **IEEE Xplore**
-
-🔗 **[View Repository →](https://github.com/nivedharengaraj/Evaluation-of-Machine-Learning-Approaches-for-Cirrhosis-Survival-Prediction)** [IEEE Xplore →](https://ieeexplore.ieee.org/document/10915362)
-
----
-
-## 🔬 Areas of Interest
-
-* 🤖 Machine Learning & Deep Learning
-* ✨ Generative AI & LLM Applications
-* 🔎 Retrieval-Augmented Generation
-* ☁️ Cloud & Scalable Systems
-* 📊 Big Data & Data Engineering
-* ⚙️ Software Architecture
-* 🔄 Distributed Systems
-* 🧪 ML Research & Experimentation
+- Combined **Extra Trees, Random Forest, and XGBoost** using weighted averaging and hyperparameter tuning
+- Published the study in **IEEE Xplore**: [Evaluation of Machine Learning Approaches for Cirrhosis Survival Prediction](https://ieeexplore.ieee.org/document/10915362)
 
 ---
 
