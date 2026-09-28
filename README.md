@@ -1,9 +1,5 @@
 # Hi, I'm Nivedha Rengaraj 👋
 
-🎓 **M.Sc. Computer Science @ University of Helsinki**
-💻 **Software Engineer | Cloud & ML Enthusiast**
-☁️ AWS • Python • Terraform • CI/CD • Machine Learning • Apache Spark
-
 I'm a Computer Science graduate and software engineer with **2+ years of industry experience** across software engineering, cloud infrastructure, machine learning, and data systems.
 
 I enjoy building at the intersection of **software engineering, AI/ML, cloud computing, and data** — from production systems and cloud infrastructure to intelligent applications and ML research**.
@@ -25,35 +21,23 @@ I enjoy building at the intersection of **software engineering, AI/ML, cloud com
 
 ## 🛠️ Tech Stack
 
-**Languages**
-`Python` `Java` `C` `JavaScript` `SQL`
+**Languages & Web**  
+`Python` `Java` `C` `JavaScript` `SQL` `HTML` `CSS` `React` `Next.js`
 
-**Frontend**
-`HTML` `CSS` `React` `Next.js`
+**Backend & APIs**  
+`Node.js` `FastAPI` `Flask` `Maven` `Postman`
 
-**Backend**
-`Node.js` `FastAPI` `Flask`
-
-**Machine Learning & AI**
+**Machine Learning & AI**  
 `Scikit-learn` `PyTorch` `TensorFlow` `Keras` `LangChain` `RAG` `NLP`
 
-**Data & Big Data**
-`NumPy` `Pandas` `Apache Spark` `PySpark`
+**Data & Databases**  
+`NumPy` `Pandas` `Apache Spark` `PySpark` `MySQL` `IBM DB2` `MongoDB` `Elasticsearch` `Logstash` `Docker`
 
-**Databases**
-`MySQL` `IBM DB2` `MongoDB`
+**Cloud & DevOps**  
+`AWS` `S3` `IAM` `EC2` `Lambda` `Transfer Family` `Terraform` `Jenkins` `Docker` `CloudBees`
 
-**Cloud & AWS**
-`AWS` `S3` `IAM` `EC2` `Lambda` `Transfer Family`
-
-**DevOps & Infrastructure**
-`Terraform` `Jenkins` `Docker` `Git` `Linux` `CloudBees`
-
-**Data & Observability**
-`Elasticsearch` `Logstash`
-
-**Tools**
-`Maven` `Postman` `GitHub`
+**Development & Systems**  
+`Git` `GitHub` `Linux`
 
 ---
 
@@ -61,13 +45,11 @@ I enjoy building at the intersection of **software engineering, AI/ML, cloud com
 
 ### 💰 Intelligent Financial Management Platform
 
-A web-based financial management application combining personal finance tracking with AI-powered insights.
+A full-stack financial management application designed to provide centralized expense tracking, spending analysis, automated insights, and financial reporting.
 
-* 💳 Personal finance tracking
-* 📊 Spending analysis
-* 🤖 AI-powered financial insights
-* 📧 Automated email reporting
-* 🌐 Full-stack web application
+- Developed a platform for recording and tracking personal expenses
+- Added spending analysis to identify patterns across financial activity
+- Integrated Gemini AI to generate insights from financial data and implemented automated financial reports sent through email
 
 🔗 **[View Repository →](https://github.com/nivedharengaraj/Finance-Tracking-web-app)**
 
@@ -77,13 +59,12 @@ A web-based financial management application combining personal finance tracking
 
 A machine learning project focused on predicting patient survival outcomes for liver cirrhosis and evaluating different machine learning approaches.
 
-* 🧠 Ensemble of **Extra Trees, Random Forest, and XGBoost**
-* 📈 Achieved **0.94 AUC** using weighted averaging
-* ⚙️ Hyperparameter tuning for model optimization
-* 🔬 Machine learning research on cirrhosis survival prediction
-* 📄 Associated publication: *Evaluation of Machine Learning Approaches for Cirrhosis Survival Prediction*
+- Evaluated multiple classification models for patient survival prediction
+- Combined **Extra Trees, Random Forest, and XGBoost** using weighted averaging
+- Used hyperparameter tuning to improve model performance
+- Achieved an **AUC of 0.94** and published the study in **IEEE Xplore**
 
-🔗 **[View Repository →](https://github.com/nivedharengaraj/Evaluation-of-Machine-Learning-Approaches-for-Cirrhosis-Survival-Prediction)**
+🔗 **[View Repository →](https://github.com/nivedharengaraj/Evaluation-of-Machine-Learning-Approaches-for-Cirrhosis-Survival-Prediction)** [IEEE Xplore →](https://ieeexplore.ieee.org/document/10915362)
 
 ---
 
