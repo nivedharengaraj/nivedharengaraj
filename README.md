@@ -1,19 +1,14 @@
 # Hi, I'm Nivedha Rengaraj 👋
 
-I'm a Computer Science graduate and software engineer with **2+ years of industry experience** across software engineering, cloud infrastructure, machine learning, and data systems.
-
-I enjoy building at the intersection of **software engineering, AI/ML, cloud computing, and data** — from production systems and cloud infrastructure to intelligent applications and ML research**.
+I enjoy building at the intersection of **software engineering, AI/ML, cloud computing, and data!**.
 
 ---
 
 ## 👩‍💻 About Me
 
 * 🎓 M.Sc. Computer Science — **University of Helsinki** *(2026 – Present)*
-* 🎓 B.Tech. Information Technology — **SRM Institute of Science & Technology** *(2021 – 2025)*
 * 💼 Former **Software Development Engineer @ Broadridge Financial Solutions**
 * 🏢 Former **Technical Intern @ Siemens Digital Industries**
-* 🤖 Former **Machine Learning Intern @ National Institute of Wind Energy**
-* 👩‍🏫 Technical Instructor — conducted Big Data & Data Science workshops for **100+ students**
 * 📍 Helsinki, Finland
 
 ---
